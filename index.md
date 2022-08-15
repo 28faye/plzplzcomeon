@@ -23,7 +23,7 @@
     <hr size = 3 color = pink >
 
     <h3>Achievements</h3>
-    <ul>
+    
       <li>
         Many GCSES
       <li>
