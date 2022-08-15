@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -32,8 +32,7 @@
         75,000 monthly Spotify Listeners
       <li>
         Author of my bestselling autobiography <em><strong>Life with Lyndsey</strong></em>
-    </ul>
-
+  
   <hr size = 3 color = pink >
     <h3>Work Experience</h3>
 
