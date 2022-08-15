@@ -63,8 +63,7 @@
 
 
 
-        </td>
-      </tr>
+       
     </table>
 
       <hr size = 3 color = pink >
