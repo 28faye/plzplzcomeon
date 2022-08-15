@@ -24,6 +24,8 @@
 
     <h3>Achievements</h3>
     
+    <ul>
+    
       <li>
         Many GCSES
       <li>
@@ -32,6 +34,7 @@
         75,000 monthly Spotify Listeners
       <li>
         Author of my bestselling autobiography <em><strong>Life with Lyndsey</strong></em>
+       </ul?
   
   <hr size = 3 color = pink >
     <h3>Work Experience</h3>
