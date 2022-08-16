@@ -33,7 +33,7 @@
         75,000 monthly Spotify Listeners
       <li>
         Author of my bestselling autobiography <em><strong>Life with Lyndsey</strong></em>
-       </ul?
+    </ul>
   
   <hr size = 3 color = pink >
     <h3>Work Experience</h3>
@@ -76,7 +76,7 @@
       <tr>
         <td>Jangling &#11088; &#11088; &#11088;</td>
         <td>Video Editing &#11088; &#11088; &#11088; &#11088; </td>
-      </tr>
+   
         <td>Comedy &#11088; &#11088; &#11088; &#11088;</td>
         <td>Self Belief &#11088; &#11088; &#11088; &#11088;  </td>
       </tr>
@@ -94,5 +94,4 @@
 
 
 
-  </body>
-</html>
+ 
